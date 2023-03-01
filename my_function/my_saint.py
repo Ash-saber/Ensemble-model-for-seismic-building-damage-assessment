@@ -254,7 +254,12 @@ class saint_model():
         return y_pred
         
         
-        
+@article{somepalli2021saint,
+  title={SAINT: Improved Neural Networks for Tabular Data via Row Attention and Contrastive Pre-Training},
+  author={Somepalli, Gowthami and Goldblum, Micah and Schwarzschild, Avi and Bruss, C Bayan and Goldstein, Tom},
+  journal={arXiv preprint arXiv:2106.01342},
+  year={2021}
+}
         
         
         
