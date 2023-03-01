@@ -1,0 +1,5 @@
+# It seems that the authors of the tabular neural networks SAINT model and Tab-transformer used in this article haven't provide 
+# universal models like xgboost and Tabnet. So I just copy their source codes in the folders 'saint_main' and 'tab_transformer_pytorch' 
+# from https://github.com/lucidrains/tab-transformer-pytorch (Tab-transformer) and https://github.com/somepago/saint (SAINT) 
+# in order to call them in my ensemble model expediently. I'm a beginner of Github and I hope it doesn't violate any 
+# stipulations here. If I do, commit to me and I will delete the copied folders.
