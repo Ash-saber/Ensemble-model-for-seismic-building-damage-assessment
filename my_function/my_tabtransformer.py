@@ -220,7 +220,14 @@ class tab_transformer():
         return y_pred
         
         
-        
+@misc{huang2020tabtransformer,
+    title   = {TabTransformer: Tabular Data Modeling Using Contextual Embeddings},
+    author  = {Xin Huang and Ashish Khetan and Milan Cvitkovic and Zohar Karnin},
+    year    = {2020},
+    eprint  = {2012.06678},
+    archivePrefix = {arXiv},
+    primaryClass = {cs.LG}
+}
         
         
         
