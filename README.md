@@ -4,5 +4,7 @@ Main codes for the article 'Ensemble technique to predict post-earthquake damage
 
 # Requirments
 pytorch == 1.12.1
+
 openml == 0.12.1
+
 pytorch-tabnet == 4.0
