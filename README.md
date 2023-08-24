@@ -8,3 +8,10 @@ pytorch == 1.12.1
 openml == 0.12.1
 
 pytorch-tabnet == 4.0
+
+scikit-learn == 0.24.1
+
+xgboost == 1.5.1
+
+lightgbm == 3.3.2
+
