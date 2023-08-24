@@ -15,3 +15,4 @@ xgboost == 1.5.1
 
 lightgbm == 3.3.2
 
+shap == 0.40.0
